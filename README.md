@@ -9,8 +9,6 @@ GraphQL, Node and Express is entirely new to me. To do this assignment I have gi
 
 I think you know it very well, with a very short time (approx 3 days) the assignmet is deficult to complete with zero experience with GraphQL, Node and Expess.
 
-I am Lefting the .env file as it is with MONGO_DB_URI string. I used MongoDB cloud service Atlas to do the projcet. If you want to see the document changing please update the connection string MONGO_DB_URI with yours or ask for login credentials.
-
 ### How to Examine
 To examien the project please nevigate to the project root folder
 
