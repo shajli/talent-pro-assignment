@@ -1,0 +1,29 @@
+{
+  "name": "talent-pro-assignment",
+  "version": "0.1.0",
+  "author": "Dilshad Rafi Shajli",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "start-gql": "node gql-server"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.6.8",
+    "@graphql-tools/schema": "^8.3.14",
+    "apollo-server-express": "^3.8.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "graphql": "^16.5.0",
+    "mongodb": "^4.7.0",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-dom": "18.1.0"
+  },
+  "devDependencies": {
+    "eslint": "8.17.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
